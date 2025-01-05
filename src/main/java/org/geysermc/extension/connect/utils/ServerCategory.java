@@ -26,7 +26,7 @@
 package org.geysermc.extension.connect.utils;
 
 public enum ServerCategory {
-    OFFICIAL("Official"),
+    OFFICIAL("Medieval Network"),
     GEYSER("Geyser"),
     CUSTOM("Custom");
 
